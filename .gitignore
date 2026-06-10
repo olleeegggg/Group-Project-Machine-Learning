@@ -1,0 +1,6 @@
+data/penalty_raw_chunks/
+data/fifa_chunks/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+datasets/players.csv
